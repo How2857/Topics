@@ -328,6 +328,7 @@ h1 {
 /* menu 樣式設定 的輪播圖 */
 .marquee-container {
     display: grid;
+    /* width:600px; */
     grid-template-columns: auto auto auto auto;
     overflow: hidden;
     white-space: nowrap;
